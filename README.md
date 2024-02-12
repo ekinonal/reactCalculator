@@ -1,10 +1,9 @@
 # ReactJs Calculator
-Calculator
+
 A simple and elegant calculator built with React and styled using Tailwind CSS.
 
-## Description
+## This calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean and intuitive interface, responsive design, and smooth operation.
 
-This calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean and intuitive interface, responsive design, and smooth operation.
 
 ## Technologies Used
 

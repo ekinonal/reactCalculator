@@ -2,8 +2,9 @@
 
 A simple and elegant calculator built with React and styled using Tailwind CSS.
 
-## This calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean and intuitive interface, responsive design, and smooth operation.
+## Description
 
+This calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean and intuitive interface, responsive design, and smooth operation.
 
 ## Technologies Used
 

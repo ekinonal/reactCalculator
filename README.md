@@ -1,5 +1,5 @@
 # ReactJs Calculator
-
+Calculator
 A simple and elegant calculator built with React and styled using Tailwind CSS.
 
 ## Description

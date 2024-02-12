@@ -15,8 +15,11 @@ This calculator performs basic arithmetic operations like addition, subtraction,
 
 To get this project running locally, clone the repository and install the dependencies:
 
-```bash
 git clone https://github.com/ekinonal/react-calculator.git
 cd react-calculator
 npm install
 npm start
+
+## Live version
+
+Live Link = [Link][(https://eknreactcalculator.netlify.app/)]

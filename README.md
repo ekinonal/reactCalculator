@@ -22,4 +22,4 @@ npm start
 ```
 ## Live version
 
-Live Link = [Link][(https://eknreactcalculator.netlify.app/)]
+Live Link = [(https://eknreactcalculator.netlify.app/)]
